@@ -1,3 +1,3 @@
 # Group24
 ## Group Members
-Danieliordache03, Izan-Navarro, Xavidem
+Danieliordache03, Izan-Navarro, Xavidem, MiguelMedinaD, MiguelJS
